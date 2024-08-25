@@ -4,13 +4,11 @@
   "description": "bajaj finserv api round",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "sai pavan jaswanth",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2",
-    "nodemon": "^3.1.4"
+    "express": "^4.19.2"
   }
 }
