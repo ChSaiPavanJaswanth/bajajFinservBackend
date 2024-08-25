@@ -41,7 +41,7 @@ exports.postRequest = (req, res) => {
   res.json({
     is_success: true,
     user_id: "cheemakurti_sai_pavan_jaswanth_31072004",
-    email: "chsaijaswanth@gmail.com",
+    email: "saipavan.jaswanth2021@vitstudent.ac.in",
     roll_number: "21BCE2836",
     numbers: numbers,
     alphabets: alphabets,
